@@ -7,7 +7,7 @@
     
 </head>
 <BODY>
-    <?php
+   <?php /*
     ECHO '<center><img  width="20%" src="https://inkythuatso.com/uploads/thumbnails/800/2021/12/logo-dai-hoc-thuong-mai-inkythuatso-01-23-09-46-38.jpg"  </center><br>';
     ECHO '<h3 align="center"> Form điền thông tin tân sinh viên </h3>';
     
@@ -56,7 +56,20 @@
     </form>';
     
     ECHO'<p align="center"><b>Ghi chú:</b>Nếu có thắc mắc, vui lòng liên hệ qua SĐT: 1112233 hoặc qua trang quản lý đào tạo <a target="_blank" href="https://qldt.tmu.edu.vn/">Tại đây</a></p>';
-    ?>
+   */ 
+  
+  echo strlen("XIN CHAO")."<BR/>"; 
+   echo str_word_count("XIN CHAO BAN");
+   echo strrev("HE LO");
+   eCHO STRPOS("xIN CHAO BẠN","BẠN");
+   ECHO STR_REPLACE("BAN","WORLD","HELLO BAN")
+  
+  
+ # Viết một chương trình PHP để đếm số ký tự trong một chuỗi sử dụng hàm strlen().
+
+   
+  
+  ?>
 
    
 </BODY>
